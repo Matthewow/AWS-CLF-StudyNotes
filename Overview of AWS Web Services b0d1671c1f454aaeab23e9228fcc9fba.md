@@ -142,7 +142,7 @@ A fast content delivery network (CDN) service that securely delivers data, video
 
 # 4. Pricing Model
 
-![Overview%20of%20AWS%20Web%20Services/Untitled.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled.png)
+![/Untitled.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled.png)
 
 ## 4.1 On-Demand
 
