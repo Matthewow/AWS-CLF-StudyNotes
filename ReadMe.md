@@ -173,11 +173,11 @@ A fast content delivery network (CDN) service that securely delivers data, video
 
 ## 5.1 Free services
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%206.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%206.png)
+![/Untitled%206.png](/Untitled%206.png)
 
 ## 5.2 AWS Support Plans
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%207.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%207.png)
+![/Untitled%207.png](/Untitled%207.png)
 
 concierge: 看门人
 
@@ -187,7 +187,7 @@ TAM: Technical Account Manager
 
 Find Buy Deploy
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%208.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%208.png)
+![/Untitled%208.png](/Untitled%208.png)
 
 ## 5.4 AWS Trusted Advisor
 
@@ -198,11 +198,11 @@ Find Buy Deploy
 
 ## 5.5 Consolidated Billing
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%209.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%209.png)
+![/Untitled%209.png](/Untitled%209.png)
 
 ### Consolidated Billing Volume Discounts
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2010.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2010.png)
+![/Untitled%2010.png](/Untitled%2010.png)
 
 ## 5.6 AWS Cost Explorer
 
@@ -213,15 +213,15 @@ Find Buy Deploy
 
 ## 5.7 AWS Budgets
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2011.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2011.png)
+![/Untitled%2011.png](/Untitled%2011.png)
 
 ## 5.7 Total Cost of Ownership (TCO) Calculator
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2012.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2012.png)
+![/Untitled%2012.png](/Untitled%2012.png)
 
 ## 5.8 AWS Landing Zone
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2013.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2013.png)
+![/Untitled%2013.png](/Untitled%2013.png)
 
 ## 5.9 Resource Groups and Tagging
 
@@ -229,29 +229,29 @@ Find Buy Deploy
 
 Lets you create a logical group of resources associated with a particular workload such as different layers of an application stack, or production versus development environments. 
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2014.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2014.png)
+![/Untitled%2014.png](/Untitled%2014.png)
 
 ## 5.10 AWS QuickStart
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2015.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2015.png)
+![/Untitled%2015.png](/Untitled%2015.png)
 
 # 6. Technology Overview
 
 ## 6.1 AWS Organization and Accounts
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2016.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2016.png)
+![/Untitled%2016.png](/Untitled%2016.png)
 
 Where the root user is the master account.
 
 ## 6.2 AWS Networking
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2017.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2017.png)
+![/Untitled%2017.png](/Untitled%2017.png)
 
 VPC: Virtual Private Cloud
 
 ## 6.3 Database Services
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2018.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2018.png)
+![/Untitled%2018.png](/Untitled%2018.png)
 
 DynamoDB: key-value and document database that delivers single-digit millisecond performance at any scale.
 
@@ -259,7 +259,7 @@ Redshift: handle a huge amount of data.
 
 ## 6.4 Provisioning Services
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2019.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2019.png)
+![/Untitled%2019.png](/Untitled%2019.png)
 
 **Elastic Beanstalk:** simply upload your code, and AWS Elastic Beanstalk automatically handles the deployment, from capacity provisioning, load balancing, and auto-scaling to application health monitoring.
 
@@ -267,7 +267,7 @@ Redshift: handle a huge amount of data.
 
 ## 6.5 Computing Services
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2020.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2020.png)
+![/Untitled%2020.png](/Untitled%2020.png)
 
 **Amazon ECS** eliminates the need for you to install and operate your own container orchestration software, manage and scale a cluster of virtual machines, or schedule containers on those virtual machines. Only pay for the run time and CPU used.
 
@@ -275,7 +275,7 @@ Redshift: handle a huge amount of data.
 
 ## 6.6 Storage Services
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2021.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2021.png)
+![/Untitled%2021.png](/Untitled%2021.png)
 
 **Storage Gateway:** 
 a hybrid storage service that enables your **on-premise**s applications to seamlessly use AWS cloud storage. You can use the service for **backup** and archiving, disaster **recovery**, cloud data processing, storage tiering, and migration.
@@ -291,93 +291,93 @@ a petabyte-scale data transport solution that uses secure appliances to transfer
 
 ## 6.7 Business Centric Services
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2022.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2022.png)
+![/Untitled%2022.png](/Untitled%2022.png)
 
 ## 6.8 Enterprise Integration
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2023.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2023.png)
+![/Untitled%2023.png](/Untitled%2023.png)
 
 ## 6.9 Logging Services
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2024.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2024.png)
+![/Untitled%2024.png](/Untitled%2024.png)
 
 ## 6.10 Know your Initialisms
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2025.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2025.png)
+![/Untitled%2025.png](/Untitled%2025.png)
 
 # 7. Security
 
 ## 7.1 Shared Responsibility Model
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2026.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2026.png)
+![/Untitled%2026.png](/Untitled%2026.png)
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2027.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2027.png)
+![/Untitled%2027.png](/Untitled%2027.png)
 
 ## 7.2 AWS Compliance programs
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2028.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2028.png)
+![/Untitled%2028.png](/Untitled%2028.png)
 
 ## 7.3 AWS Artifact
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2029.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2029.png)
+![/Untitled%2029.png](/Untitled%2029.png)
 
 ## 7.3 Amazon Inspector
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2030.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2030.png)
+![/Untitled%2030.png](/Untitled%2030.png)
 
 ## 7.4 AWS WAF
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2031.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2031.png)
+![/Untitled%2031.png](/Untitled%2031.png)
 
 ## 7.5 AWS Shield
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2032.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2032.png)
+![/Untitled%2032.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2032.png)
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2033.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2033.png)
+![/Untitled%2033.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2033.png)
 
 ## 7.6 Penetration Testing
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2034.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2034.png)
+![/Untitled%2034.png](/Untitled%2034.png)
 
 ## 7.7 Guard Duty
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2035.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2035.png)
+![/Untitled%2035.png](/Untitled%2035.png)
 
 ## 7.8 Key Management Service
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2036.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2036.png)
+![/Untitled%2036.png](/Untitled%2036.png)
 
 ## 7.9 Amazon Macie
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2037.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2037.png)
+![/Untitled%2037.png](/Untitled%2037.png)
 
 ## 7.10 Security Groups vs NACLs
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2038.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2038.png)
+![/Untitled%2038.png](/Untitled%2038.png)
 
 You can deny a particular IP address using NACLs.
 
 ## 7.11 AWS VPN
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2039.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2039.png)
+![/Untitled%2039.png](/Untitled%2039.png)
 
 # 8. Variation Study
 
 ## 8.1 Cloud* Service
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2040.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2040.png)
+![/Untitled%2040.png](/Untitled%2040.png)
 
 ## 8.2 Connect Service
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2041.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2041.png)
+![/Untitled%2041.png](/Untitled%2041.png)
 
 ## 8.3 Elastic Transcoder vs. Media Convert
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2042.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2042.png)
+![/Untitled%2042.png](/Untitled%2042.png)
 
 ## 8.4 SNS vs SQS
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2043.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2043.png)
+![/Untitled%2043.png](/Untitled%2043.png)
 
 SNS: like billing emails
 
@@ -385,7 +385,7 @@ SQS: for delay test
 
 ## 8.5 Inspector vs Trusted Advisor
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2044.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2044.png)
+![/Untitled%2044.png](/Untitled%2044.png)
 
 Inspector: only EC2 instance
 
@@ -395,7 +395,7 @@ Trusted advisor: multiple aspects
 
 Load Banlancer
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2045.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2045.png)
+![/Untitled%2045.png](/Untitled%2045.png)
 
 Layer 7 is the application layer.
 
@@ -403,7 +403,7 @@ Layer 4 is transprt layer
 
 ## 8.7 SNS vs SES
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2046.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2046.png)
+![/Untitled%2046.png](/Untitled%2046.png)
 
 SNS: internal and practical purposes. No HTML emails.
 
@@ -411,7 +411,7 @@ SES: Professional and marketing purposes. Optimized for emails.
 
 ## 8.8 Artifact vs Inspector
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2047.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2047.png)
+![/Untitled%2047.png](/Untitled%2047.png)
 
 # 9. Supplementary Concepts
 
