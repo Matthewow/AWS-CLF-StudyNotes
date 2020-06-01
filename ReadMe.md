@@ -331,9 +331,9 @@ a petabyte-scale data transport solution that uses secure appliances to transfer
 
 ## 7.5 AWS Shield
 
-![/Untitled%2032.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2032.png)
+![/Untitled%2032.png](/Untitled%2032.png)
 
-![/Untitled%2033.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%2033.png)
+![/Untitled%2033.png](/Untitled%2033.png)
 
 ## 7.6 Penetration Testing
 
