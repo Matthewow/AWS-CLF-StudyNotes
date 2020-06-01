@@ -151,23 +151,23 @@ A fast content delivery network (CDN) service that securely delivers data, video
 
 ## 4.2 Reserved Instances(RI)
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%201.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%201.png)
+![/Untitled%201.png](/Untitled%201.png)
 
 ## 4.3 Spot Instances
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%202.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%202.png)
+![/Untitled%202.png](/Untitled%202.png)
 
 ## 4.4 Dedicated Host Instances
 
 **Isolated hardware**
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%203.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%203.png)
+![/Untitled%203.png](/Untitled%203.png)
 
 ## 4.5 CheatSheet
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%204.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%204.png)
+![/Untitled%204.png](/Untitled%204.png)
 
-![Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%205.png](Overview%20of%20AWS%20Web%20Services%20b0d1671c1f454aaeab23e9228fcc9fba/Untitled%205.png)
+![/Untitled%205.png](/Untitled%205.png)
 
 # 5. Billing and Pricing
 
