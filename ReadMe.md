@@ -6,8 +6,6 @@ This is a self optimized personal study notes for AWS Certificated Cloud Practit
 
 The contents are mostly noted down from the source pages as below. Should you have any enquires, please get in touch with me at ***matthewwang dot my at gmail dot com.***
 
-[https://www.youtube.com/watch?v=3hLmDS179YE&t=26s](https://www.youtube.com/watch?v=3hLmDS179YE&t=26s)
-
 Online course online 
 
 [https://www.youtube.com/watch?v=3hLmDS179YE&t=26s](https://www.youtube.com/watch?v=3hLmDS179YE&t=26s)
@@ -16,7 +14,7 @@ Official Whitepaper
 
 [https://d0.awsstatic.com/whitepapers/aws-overview.pdf](https://d0.awsstatic.com/whitepapers/aws-overview.pdf)
 
-Other website(s):
+Other website:
 
 [https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/](https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/)
 
